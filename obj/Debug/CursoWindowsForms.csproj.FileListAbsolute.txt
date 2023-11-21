@@ -2,9 +2,9 @@ C:\Users\tsouz\source\repos\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.co
 C:\Users\tsouz\source\repos\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
 C:\Users\tsouz\source\repos\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
-C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.HelloWorld.resources
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
