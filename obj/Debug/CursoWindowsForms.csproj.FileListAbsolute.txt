@@ -10,3 +10,5 @@ C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
 C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\tsouz\source\repos\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
