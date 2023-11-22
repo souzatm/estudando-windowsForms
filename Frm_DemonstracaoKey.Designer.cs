@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_DemonstracaoKey));
             this.Txt_Msg = new System.Windows.Forms.TextBox();
             this.Btn_Reset = new System.Windows.Forms.Button();
             this.Lbl_Minus = new System.Windows.Forms.Label();
@@ -112,6 +113,7 @@
             this.Controls.Add(this.Lbl_Minus);
             this.Controls.Add(this.Btn_Reset);
             this.Controls.Add(this.Txt_Msg);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Frm_DemonstracaoKey";
             this.Text = "Demonstração Evento Key";
             this.ResumeLayout(false);
