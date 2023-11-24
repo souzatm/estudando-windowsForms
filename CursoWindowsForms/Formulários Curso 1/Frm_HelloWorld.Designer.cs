@@ -47,6 +47,7 @@
             // 
             // Btn_Sair
             // 
+            this.Btn_Sair.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Btn_Sair.Location = new System.Drawing.Point(638, 413);
             this.Btn_Sair.Name = "Btn_Sair";
             this.Btn_Sair.Size = new System.Drawing.Size(150, 25);

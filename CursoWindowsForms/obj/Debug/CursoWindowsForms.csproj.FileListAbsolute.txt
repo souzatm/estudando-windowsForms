@@ -37,3 +37,4 @@ C:\Users\tsouz\source\repos\curso-windowsForms\CursoWindowsForms\obj\Debug\Curso
 C:\Users\tsouz\source\repos\curso-windowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
 C:\Users\tsouz\source\repos\curso-windowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\tsouz\source\repos\curso-windowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\tsouz\source\repos\curso-windowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
